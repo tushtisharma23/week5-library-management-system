@@ -1,0 +1,95 @@
+==================================================
+          LIBRARY MANAGEMENT SYSTEM
+==================================================
+
+1. Add Book
+2. Add Member
+3. View Books
+4. View Members
+5. Search Book
+6. Search Member
+7. Borrow Book
+8. Return Book
+9. Save Data
+0. Exit
+
+Enter your choice: 1
+
+Book Title: Python Programming
+Author: John Smith
+ISBN: 101
+Year: 2024
+
+Book added successfully!
+
+==================================================
+
+Enter your choice: 2
+
+Member Name: Tushti Sharma
+Member ID: M001
+
+Member added successfully!
+
+==================================================
+
+Enter your choice: 3
+
+===== BOOK LIST =====
+
+Python Programming | John Smith | 101 | Available
+
+==================================================
+
+Enter your choice: 4
+
+===== MEMBER LIST =====
+
+M001 | Tushti Sharma
+
+==================================================
+
+Enter your choice: 5
+
+Enter ISBN: 101
+
+Python Programming | John Smith | 101 | Available
+
+==================================================
+
+Enter your choice: 6
+
+Enter Member ID: M001
+
+M001 | Tushti Sharma
+
+==================================================
+
+Enter your choice: 7
+
+Member ID: M001
+Book ISBN: 101
+
+Book borrowed successfully!
+
+==================================================
+
+Enter your choice: 8
+
+Member ID: M001
+Book ISBN: 101
+
+Book returned successfully!
+
+==================================================
+
+Enter your choice: 9
+
+Data saved successfully!
+
+==================================================
+
+Enter your choice: 0
+
+Thank you for using Library Management System!
+==================================================
